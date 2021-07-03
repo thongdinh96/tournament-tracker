@@ -1,0 +1,9 @@
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojAssemblyReference.cache
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.dll
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\bin\Debug\Dapper.xml
+E:\OneDrive\Programming\.NET\Desktop\Winforms\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CopyComplete
